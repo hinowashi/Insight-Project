@@ -12,4 +12,4 @@ The cost optimization will come last (I mean you are already planing to take a y
 
 The solution to the problem is a constrain programing one.  In the sence that we most see all the birds.  The weather and cost will be added as secondary incentives.  
 
-Finaly this product will be individualized since it will take the user origin location and in that senze will be a 
+Finaly this product will be individualized since it will take the user origin location and budgets constraints.
